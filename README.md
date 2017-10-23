@@ -1,5 +1,5 @@
 # vue-website
-vue.js写的静态网站（静态资源，使用了vuex与axios,可接外部资源）
+vue.js写的静态网站（静态资源，使用了vuex与axios,可接外部资源，技术包括vue.js、vue-router、vuex、axios、vue-lazyload）
 
 npm init安装依赖
 
